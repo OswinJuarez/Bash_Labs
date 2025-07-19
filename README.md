@@ -9,3 +9,4 @@ Commandos utiles para las condiciones
 -w si es WRITABLE
 -x si es ejecutabke
 -s si el archivo NO esta vacio
+-f checa si es un archivo
